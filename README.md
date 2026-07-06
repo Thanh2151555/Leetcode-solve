@@ -2,9 +2,9 @@
 
 Exported solved LeetCode problems from a personal account.
 
-**Last Updated:** 2026-07-07 01:42:26
+**Last Updated:** 2026-07-07 01:47:16
 
-**Total Problems:** 115
+**Total Problems:** 116
 
 | # | Title | Slug |
 |---|-------|------|
@@ -60,6 +60,7 @@ Exported solved LeetCode problems from a personal account.
 | 57 | [Insert Interval](./0057-insert-interval) | insert-interval |
 | 59 | [Spiral Matrix II](./0059-spiral-matrix-ii) | spiral-matrix-ii |
 | 61 | [Rotate List](./0061-rotate-list) | rotate-list |
+| 63 | [Unique Paths II](./0063-unique-paths-ii) | unique-paths-ii |
 | 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | remove-duplicates-from-sorted-list-ii |
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | remove-duplicates-from-sorted-list |
 | 86 | [Partition List](./0086-partition-list) | partition-list |
