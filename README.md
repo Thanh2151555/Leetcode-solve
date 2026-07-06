@@ -4,8 +4,6 @@ Exported solved LeetCode problems from a personal account.
 
 **Last Updated:** 2026-07-05 14:26:14
 
-**Total Problems:** 100
-
 | # | Title | Slug |
 |---|-------|------|
 | 1 | [Two Sum](./0001-two-sum) | two-sum |
