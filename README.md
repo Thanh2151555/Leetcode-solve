@@ -2,9 +2,9 @@
 
 Exported solved LeetCode problems from a personal account.
 
-**Last Updated:** 2026-07-07 01:47:16
+**Last Updated:** 2026-07-17 05:45:03
 
-**Total Problems:** 116
+**Total Problems:** 123
 
 | # | Title | Slug |
 |---|-------|------|
@@ -61,6 +61,13 @@ Exported solved LeetCode problems from a personal account.
 | 59 | [Spiral Matrix II](./0059-spiral-matrix-ii) | spiral-matrix-ii |
 | 61 | [Rotate List](./0061-rotate-list) | rotate-list |
 | 63 | [Unique Paths II](./0063-unique-paths-ii) | unique-paths-ii |
+| 64 | [Minimum Path Sum](./0064-minimum-path-sum) | minimum-path-sum |
+| 66 | [Plus One](./0066-plus-one) | plus-one |
+| 68 | [Text Justification](./0068-text-justification) | text-justification |
+| 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | set-matrix-zeroes |
+| 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | search-a-2d-matrix |
+| 75 | [Sort Colors](./0075-sort-colors) | sort-colors |
+| 78 | [Subsets](./0078-subsets) | subsets |
 | 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | remove-duplicates-from-sorted-list-ii |
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | remove-duplicates-from-sorted-list |
 | 86 | [Partition List](./0086-partition-list) | partition-list |
