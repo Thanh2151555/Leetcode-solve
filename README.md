@@ -2,9 +2,9 @@
 
 Exported solved LeetCode problems from a personal account.
 
-**Last Updated:** 2026-07-17 05:45:03
+**Last Updated:** 2026-07-17 06:01:12
 
-**Total Problems:** 123
+**Total Problems:** 124
 
 | # | Title | Slug |
 |---|-------|------|
@@ -68,6 +68,7 @@ Exported solved LeetCode problems from a personal account.
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | search-a-2d-matrix |
 | 75 | [Sort Colors](./0075-sort-colors) | sort-colors |
 | 78 | [Subsets](./0078-subsets) | subsets |
+| 79 | [Word Search](./0079-word-search) | word-search |
 | 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | remove-duplicates-from-sorted-list-ii |
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | remove-duplicates-from-sorted-list |
 | 86 | [Partition List](./0086-partition-list) | partition-list |
