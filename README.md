@@ -2,9 +2,9 @@
 
 Exported solved LeetCode problems from a personal account.
 
-**Last Updated:** 2026-07-17 06:16:44
+**Last Updated:** 2026-07-21 21:33:21
 
-**Total Problems:** 125
+**Total Problems:** 130
 
 | # | Title | Slug |
 |---|-------|------|
@@ -70,9 +70,14 @@ Exported solved LeetCode problems from a personal account.
 | 78 | [Subsets](./0078-subsets) | subsets |
 | 79 | [Word Search](./0079-word-search) | word-search |
 | 80 | [Remove Duplicates from Sorted Array II](./0080-remove-duplicates-from-sorted-array-ii) | remove-duplicates-from-sorted-array-ii |
+| 81 | [Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii) | search-in-rotated-sorted-array-ii |
 | 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | remove-duplicates-from-sorted-list-ii |
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | remove-duplicates-from-sorted-list |
+| 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | largest-rectangle-in-histogram |
+| 85 | [Maximal Rectangle](./0085-maximal-rectangle) | maximal-rectangle |
 | 86 | [Partition List](./0086-partition-list) | partition-list |
+| 88 | [Merge Sorted Array](./0088-merge-sorted-array) | merge-sorted-array |
+| 90 | [Subsets II](./0090-subsets-ii) | subsets-ii |
 | 92 | [Reverse Linked List II](./0092-reverse-linked-list-ii) | reverse-linked-list-ii |
 | 109 | [Convert Sorted List to Binary Search Tree](./0109-convert-sorted-list-to-binary-search-tree) | convert-sorted-list-to-binary-search-tree |
 | 114 | [Flatten Binary Tree to Linked List](./0114-flatten-binary-tree-to-linked-list) | flatten-binary-tree-to-linked-list |
