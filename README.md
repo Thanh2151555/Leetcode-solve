@@ -2,9 +2,9 @@
 
 Exported solved LeetCode problems from a personal account.
 
-**Last Updated:** 2026-07-29 11:10:36
+**Last Updated:** 2026-07-29 11:14:26
 
-**Total Problems:** 133
+**Total Problems:** 134
 
 | # | Title | Slug |
 |---|-------|------|
@@ -86,6 +86,7 @@ Exported solved LeetCode problems from a personal account.
 | 114 | [Flatten Binary Tree to Linked List](./0114-flatten-binary-tree-to-linked-list) | flatten-binary-tree-to-linked-list |
 | 116 | [Populating Next Right Pointers in Each Node](./0116-populating-next-right-pointers-in-each-node) | populating-next-right-pointers-in-each-node |
 | 117 | [Populating Next Right Pointers in Each Node II](./0117-populating-next-right-pointers-in-each-node-ii) | populating-next-right-pointers-in-each-node-ii |
+| 118 | [Pascal's Triangle](./0118-pascals-triangle) | pascals-triangle |
 | 138 | [Copy List with Random Pointer](./0138-copy-list-with-random-pointer) | copy-list-with-random-pointer |
 | 141 | [Linked List Cycle](./0141-linked-list-cycle) | linked-list-cycle |
 | 142 | [Linked List Cycle II](./0142-linked-list-cycle-ii) | linked-list-cycle-ii |
