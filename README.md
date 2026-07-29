@@ -2,9 +2,9 @@
 
 Exported solved LeetCode problems from a personal account.
 
-**Last Updated:** 2026-07-21 21:33:21
+**Last Updated:** 2026-07-29 11:10:36
 
-**Total Problems:** 130
+**Total Problems:** 133
 
 | # | Title | Slug |
 |---|-------|------|
@@ -79,6 +79,9 @@ Exported solved LeetCode problems from a personal account.
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | merge-sorted-array |
 | 90 | [Subsets II](./0090-subsets-ii) | subsets-ii |
 | 92 | [Reverse Linked List II](./0092-reverse-linked-list-ii) | reverse-linked-list-ii |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./0105-construct-binary-tree-from-preorder-and-inorder-traversal) | construct-binary-tree-from-preorder-and-inorder-traversal |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./0106-construct-binary-tree-from-inorder-and-postorder-traversal) | construct-binary-tree-from-inorder-and-postorder-traversal |
+| 108 | [Convert Sorted Array to Binary Search Tree](./0108-convert-sorted-array-to-binary-search-tree) | convert-sorted-array-to-binary-search-tree |
 | 109 | [Convert Sorted List to Binary Search Tree](./0109-convert-sorted-list-to-binary-search-tree) | convert-sorted-list-to-binary-search-tree |
 | 114 | [Flatten Binary Tree to Linked List](./0114-flatten-binary-tree-to-linked-list) | flatten-binary-tree-to-linked-list |
 | 116 | [Populating Next Right Pointers in Each Node](./0116-populating-next-right-pointers-in-each-node) | populating-next-right-pointers-in-each-node |
